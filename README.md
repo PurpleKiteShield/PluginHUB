@@ -8,4 +8,4 @@ https://raw.githubusercontent.com/UnstableFlipPhone/PluginHUB/main/pluginmaster.
 
 | Name                                                         | Description                                                  | Downloads                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [RotationSolver](https://github.com/UnstableFlipPhone/EasySolver) | Lazy NG+. | ![Github Latest Releases](https://img.shields.io/github/downloads/UnstableFlipPhone/EasySolver/latest/total.svg?stylelabel=)![Github All Releases](https://img.shields.io/github/downloads/UnstableFlipPhone/EasySolver/total.svg?stylelabel=)
+| [EasySolver](https://github.com/UnstableFlipPhone/EasySolver) | Lazy NG+. | ![Github Latest Releases](https://img.shields.io/github/downloads/UnstableFlipPhone/EasySolver/latest/total.svg?stylelabel=)![Github All Releases](https://img.shields.io/github/downloads/UnstableFlipPhone/EasySolver/total.svg?stylelabel=)
