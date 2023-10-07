@@ -1,8 +1,8 @@
 [
   {
-    "Author": "ArchiTed",
-    "Name": "Rotation Solver",
-    "InternalName": "RotationSolver",
+    "Author": "Easy",
+    "Name": "Easy Solver",
+    "InternalName": "EasySolver",
     "Description": "Analyses PvE combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -18,76 +18,15 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "IsTestingExclusive": false,
-    "IconUrl": "https://raw.githubusercontent.com/ArchiDog1998/RotationSolver/main/Images/Logo.png",
+    "IconUrl": "https://raw.githubusercontent.com/UnstableFlipPhone/EasySolver/main/Images/Logo.png",
     "Punchline": "Analyses PvE combat information every frame and finds the best action.",
     "AcceptsFeedback": true,
     "AssemblyVersion": "3.3.3",
     "Changelog": "3.3.3 (2023-10-04)\n\n\nBug Fixes\n\n* add links of rotations. (781e217)\n* add story link into about page. (25c2e8f)\n* add supporters list in about page. (0ed5ec3)\n* clean using. (1adc750)\n* ImRaii. (701554b)\n* little patch. (6218cf2)\n* make localization online. (7578487)\n* patch api 9 with the normal things. (703642b)\n* patch api 9. (f21cfaa)\n* update submodules. (b83ab31)",
     "DownloadCount": "15214",
     "LastUpdate": 1696388540,
-    "RepoUrl": "https://github.com/ArchiDog1998/RotationSolver",
-    "DownloadLinkInstall": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v3.3.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v3.3.3/latest.zip"
-  },
-  {
-    "Author": "ArchiTed, matrix",
-    "Name": "Fake Name",
-    "InternalName": "FakeName",
-    "Description": "Show a fake name on your game ui.",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "display",
-      "name"
-    ],
-    "CategoryTags": [
-      "name"
-    ],
-    "DalamudApiLevel": 9,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/ArchiDog1998/FakeName/main/icon.png",
-    "Punchline": "Show a fake name on your game ui.",
-    "AcceptsFeedback": true,
-    "AssemblyVersion": "1.0.10",
-    "Changelog": "1.0.10 (2023-10-04)\n\n\nBug Fixes\n\n* api 9. (73db581)\n* update submodules. (88862c5)",
-    "DownloadCount": "886",
-    "LastUpdate": 1696389053,
-    "RepoUrl": "https://github.com/ArchiDog1998/FakeName",
-    "DownloadLinkInstall": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.0.10/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ArchiDog1998/FakeName/releases/download/v1.0.10/latest.zip"
-  },
-  {
-    "Author": "Tischel, ArchiTed",
-    "Name": "ActionTimelineEx",
-    "InternalName": "ActionTimelineEx",
-    "Description": "Configurable timeline display of all the actions you use.",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "UI"
-    ],
-    "CategoryTags": [
-      "UI"
-    ],
-    "DalamudApiLevel": 9,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "IsTestingExclusive": false,
-    "IconUrl": "https://xivapi.com/i/000000/000073_hr1.png",
-    "Punchline": "Show your actions in real-time.",
-    "ImageUrls": [
-      "https://raw.githubusercontent.com/ArchiDog1998/ActionTimelineEx/main/Images/example.gif"
-    ],
-    "AcceptsFeedback": true,
-    "AssemblyVersion": "1.3.5",
-    "Changelog": "1.3.5 (2023-10-04)\n\n\nBug Fixes\n\n* api 9 (fcb8a35)\n* update submodules. (6ed31b4)",
-    "DownloadCount": "471",
-    "LastUpdate": 1696388800,
-    "RepoUrl": "https://github.com/ArchiDog1998/ActionTimelineEx",
-    "DownloadLinkInstall": "https://github.com/ArchiDog1998/ActionTimelineEx/releases/download/v1.3.5/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/ArchiDog1998/ActionTimelineEx/releases/download/v1.3.5/latest.zip"
+    "RepoUrl": "https://github.com/UnstableFlipPhone/EasySolver",
+    "DownloadLinkInstall": "https://github.com/UnstableFlipPhone/EasySolver/releases/download/v3.3.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/UnstableFlipPhone/EasySolver/releases/download/v3.3.3/latest.zip"
   }
 ]
