@@ -3,7 +3,7 @@
     "Author": "Easy",
     "Name": "Easy Solver",
     "InternalName": "EasySolver",
-    "Description": "Analyses PvE combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
+    "Description": "Lazy on a whole new level.",
     "ApplicableVersion": "any",
     "Tags": [
       "combat",
@@ -19,12 +19,15 @@
     "LoadPriority": 0,
     "IsTestingExclusive": false,
     "IconUrl": "https://raw.githubusercontent.com/UnstableFlipPhone/EasySolver/main/Images/Logo.png",
-    "Punchline": "Analyses PvE combat information every frame and finds the best action.",
+    "Punchline": "Cause being lazy is nice",
+    "ImageUrls": [
+      "https://github.com/UnstableFlipPhone/EasySolver/raw/main/Images/Logo.gif"
+    ],
     "AcceptsFeedback": true,
-    "AssemblyVersion": "3.3.3",
-    "Changelog": "3.3.3 (2023-10-04)\n\n\nBug Fixes\n\n* add links of rotations. (781e217)\n* add story link into about page. (25c2e8f)\n* add supporters list in about page. (0ed5ec3)\n* clean using. (1adc750)\n* ImRaii. (701554b)\n* little patch. (6218cf2)\n* make localization online. (7578487)\n* patch api 9 with the normal things. (703642b)\n* patch api 9. (f21cfaa)\n* update submodules. (b83ab31)",
-    "DownloadCount": "15214",
-    "LastUpdate": 1696388540,
+    "AssemblyVersion": "0.0.0.7",
+    "Changelog": "",
+    "DownloadCount": "0",
+    "LastUpdate": 1696388800,
     "RepoUrl": "https://github.com/UnstableFlipPhone/EasySolver",
     "DownloadLinkInstall": "https://github.com/UnstableFlipPhone/EasySolver/releases/download/0.0.0.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/UnstableFlipPhone/EasySolver/releases/download/0.0.0.7/latest.zip"
