@@ -1,6 +1,6 @@
 [
   {
-    "Author": "Easy",
+    "Author": "Slimey",
     "Name": "Easy Solver",
     "InternalName": "EasySolver",
     "Description": "Lazy on a whole new level.",
@@ -24,7 +24,7 @@
       "https://github.com/UnstableFlipPhone/EasySolver/raw/main/Images/Logo.gif"
     ],
     "AcceptsFeedback": true,
-    "AssemblyVersion": "0.0.0.7",
+    "AssemblyVersion": "0.0.0.8",
     "Changelog": "",
     "DownloadCount": "0",
     "LastUpdate": 1696388800,
